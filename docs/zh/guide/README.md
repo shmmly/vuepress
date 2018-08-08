@@ -10,6 +10,7 @@ VuePress 由两部分组成：一部分是支持用 Vue 开发主题的极简静
 
 在构建时，我们会为应用创建一个服务端渲染（SSR）的版本，然后通过虚拟访问每一条路径来渲染对应的HTML。这种做法的灵感来源于 [Nuxt](https://nuxtjs.org/) 的 `nuxt generate` 命令，以及其他的一些项目，比如 [Gatsby](https://www.gatsbyjs.org/)。
 
+
 ## 特性
 
 - 为技术文档而优化的 [内置 Markdown 拓展](./markdown.md)
